@@ -11,16 +11,17 @@
 
 ---
 
+
 ## 🔰 Beginner (Days 1–14)
 
 | Day | Topic | Link |
 |-----|------|------|
 <!--BEGINNER_TABLE_START-->
-| Day 1 | Working with Variables in Python to Manage Data | [View Code](./Day01/main.py) |
-| Day 2 | Understanding Data Types and Manipulating Strings | [View Code](./Day02/main.py) |
-| Day 3 | Control Flow and Logical Operators | [View Code](./Day03/main.py) |
-| Day 4 | Randomisation and Python Lists | [View Code](./Day04/main.py) |
-| Day 5 | Python Loops | [View Code](./Day05/main.py) |
+| Day 01 | Working with Variables in Python to Manage Data | [View Code](./Day_1.ipynb) | \n
+| Day 02 | Understanding Data Types and How to Manipulate Strings | [View Code](./Day_2.ipynb) | \n
+| Day 03 | Control Flow and Logical Operators | [View Code](./Day_3.ipynb) | \n
+| Day 04 | Randomisation and Python Lists | [View Code](./Day_4.ipynb) | \n
+| Day 05 | Python Loops | [View Code](./Day_5.ipynb) | \n
 <!--BEGINNER_TABLE_END-->
 
 ---
@@ -109,3 +110,6 @@ Udemy course:
 **_100 Days of Code: The Complete Python Pro Bootcamp_** by **Dr. Angela Yu** (The App Brewery).  
 
 This repository contains **my own code, projects, and notes** developed while following the course.
+
+
+
