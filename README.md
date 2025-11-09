@@ -17,11 +17,11 @@
 | Day    | Topic                                   | Link     |
 |--------|-----------------------------------------|----------|
 <!--BEGINNER_TABLE_START-->
-- | Day 01 | Working with Variables in Python to Manage Data | [View Code](./Day_1.ipynb) |
+- | Day 01 | Working with Variables in Python to Manage Data |        [View Code](./Day_1.ipynb) |
 - | Day 02 | Understanding Data Types and How to Manipulate Strings | [View Code](./Day_2.ipynb) |
-- | Day 03 | Control Flow and Logical Operators | [View Code](./Day_3.ipynb) |
-- | Day 04 | Randomisation and Python Lists | [View Code](./Day_4.ipynb) |
-- | Day 05 | Python Loops | [View Code](./Day_5.ipynb) |
+- | Day 03 | Control Flow and Logical Operators |                     [View Code](./Day_3.ipynb) |
+- | Day 04 | Randomisation and Python Lists |                         [View Code](./Day_4.ipynb) |
+- | Day 05 | Python Loops |                                           [View Code](./Day_5.ipynb) |
 <!--BEGINNER_TABLE_END-->
 
 ---
