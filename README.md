@@ -14,8 +14,8 @@
 
 ## 🔰 Beginner (Days 1–14)
 
-| Day | Topic | Link |
-|-----|------|------|
+| Day    | Topic                                   | Link     |
+|--------|-----------------------------------------|----------|
 <!--BEGINNER_TABLE_START-->
 | Day 01 | Working with Variables in Python to Manage Data | [View Code](./Day_1.ipynb) | \n
 | Day 02 | Understanding Data Types and How to Manipulate Strings | [View Code](./Day_2.ipynb) | \n
