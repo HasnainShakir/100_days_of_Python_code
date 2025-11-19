@@ -23,6 +23,9 @@
 - | Day 04 | Randomisation and Python Lists |                         [View Code](./Day_4.ipynb) |
 - | Day 05 | Python Loops |                                           [View Code](./Day_5.ipynb) |
 - | Day 06 | Python function and karel |                              [View Code](./Day_6.ipynb) |
+- | Day 07 | Hangman |                                                [View Code](./Day_6.ipynb) |
+
+ 
 <!--BEGINNER_TABLE_END-->
 
 ---
