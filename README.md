@@ -24,7 +24,7 @@
 - | Day 05 | Python Loops |                                           [View Code](./Day_5.ipynb) |
 - | Day 06 | Python function and karel |                              [View Code](./Day_6.ipynb) |
 - | Day 07 | Hangman |                                                [View Code](./Day_7.ipynb) |
-- | Day 08 | Hangman |                                                [View Code](./Day_8.ipynb) |
+- | Day 08 | Function Parameters & Caesar Cipher |                    [View Code](./Day_8.ipynb) |
  
 <!--BEGINNER_TABLE_END-->
 
